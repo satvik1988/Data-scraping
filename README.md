@@ -5,7 +5,7 @@ Here are the links which are refered form wiki.
 https://en.wikipedia.org/wiki/World_Happiness_Report#2019_report
  https://simple.wikipedia.org/wiki/List_of_countries_by_continents
  
-Fill in the fields to see the markdown badge snippet.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/satvik1988/Data-scraping/Master?filepath=Data%20scraping.ipynb)
 please fill this before executing the code on binder
 try:
     import sklearn
